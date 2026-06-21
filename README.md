@@ -1,4 +1,4 @@
-# 🔤 QSkill Task 2 — Random String Generator
+#  QSkill Task 2 — Random String Generator
 
 > Internship task submission completed as part of the **QSkill Frontend Development Internship**.
 
@@ -6,25 +6,25 @@ A React application that generates random strings, built specifically to demonst
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 
-[Add your deployed link here once hosted — e.g. via Vercel/Netlify]
-
+https://q-skill-task-2-random-string-genera.vercel.app/
 ---
 
-## 📸 Screenshot
+## Task Preview
 
-![App Screenshot](./screenshot.png)
-
+<p align="center">
+  <img src="Screenshot.jpeg" width="600">
+</p>
 ---
 
-## 📋 Task Description
+##  Task Description
 
 > Create a basic React application that will help you to generate random strings. Please make sure that you have to use **useState**, **useCallback** & **useEffect** hooks for implementing that application.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -34,7 +34,7 @@ A React application that generates random strings, built specifically to demonst
 
 ---
 
-## ✨ Features
+##  Features
 
 - Generate a random string with adjustable length (4–64 characters) using a slider
 - Toggle character types on/off: uppercase, lowercase, numbers, symbols
@@ -44,7 +44,7 @@ A React application that generates random strings, built specifically to demonst
 
 ---
 
-## ⚙️ How It Works — Hooks Breakdown
+##  How It Works — Hooks Breakdown
 
 **`useState`**
 Tracks five pieces of state: the desired string length, the selected character type options (an object with boolean flags), the currently generated string, and a flag to show "Copied" feedback after copying.
@@ -77,7 +77,7 @@ useEffect(() => {
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 task2-random-string/
@@ -98,7 +98,7 @@ task2-random-string/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 Clone or download the repository, then run:
 
@@ -111,6 +111,16 @@ Then open the app in your browser at:
 ```
 http://localhost:5173
 ```
+
+---
+
+##  Author
+
+**Stuti Rai**  
+Frontend Development Intern — QSkill
+
+- GitHub: [github.com/stutirai](https://github.com/stutirai)
+
 
 ---
 
