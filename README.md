@@ -14,7 +14,7 @@ https://q-skill-task-2-random-string-genera.vercel.app/
 ## Task Preview
 
 <p align="center">
-  <img src="Screenshot.png" width="800">
+  <img src="screenshot.png" width="800">
 </p>
 ---
 
